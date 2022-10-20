@@ -20,7 +20,6 @@ Have year and a half experience in developing industrial electronic devices: fro
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [HAQuDA](https://github.com/IlorDash/HAQuDA) and [RISC-V based CPU](https://github.com/MIET-APS-Labs/RISC-V_based_CPU)  
   
@@ -35,10 +34,6 @@ Have year and a half experience in developing industrial electronic devices: fro
 
 
 </td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
