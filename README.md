@@ -13,10 +13,10 @@ Have year and a half experience in developing industrial electronic devices: fro
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on [HAQuDA](https://github.com/IlorDash/HAQuDA) and [RISC-V based CPU](https://github.com/MIET-APS-Labs/RISC-V_based_CPU)  
+- 🔭 I’m currently working on [HAQuDA](https://github.com/IlorDash/HAQuDA)  
   
 
-- 🌱 I’m currently learning System Verilog  
+- 🌱 I’m currently learning Go 
   
 
 - ⚡ Fun fact: With great power comes great responsibility  
