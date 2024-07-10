@@ -3,17 +3,14 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=1E90FF)](https://t.me/Ilordash) 
 
 ### Glad to see you here!  
-I am a student of Computer Science and Engineering course of National Research University of Electronic Technology (MIET).
+I am Embedded Software Engineer.
 
-I'm interesting in developing electronic devices, programming MCUs and 3D-modelling. 
-
-Have year and a half experience in developing industrial electronic devices: from designing schematics to prepairing fabrication outputs and final assembly of PCB, and programming MCUs.  
+I'm interesting in system programming, programming MCUs, developing electronic devices and 3D-modelling. 
    
-
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on [HAQuDA](https://github.com/IlorDash/HAQuDA)  
+- 🔭 I’m currently working on [HAQuDA](https://github.com/IlorDash/HAQuDA)
   
 
 - 🌱 I’m currently learning Go 
@@ -22,7 +19,7 @@ Have year and a half experience in developing industrial electronic devices: fro
 - ⚡ Fun fact: With great power comes great responsibility  
   
 
-- 🔬 С/С++, Verilog, System Verilog, C#  
+- 🔬 С/С++, Go, Python
 
 
 </td><td valign="top" width="50%">
