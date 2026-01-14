@@ -20,12 +20,3 @@ I'm interesting in system programming, programming MCUs, developing electronic d
   
 
 - 🔬 С/С++, Go, Python
-
-
-### Stats: 
-<div align="left">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ilordash&show_icons=true&theme=dark" />
-    <div align="left">
-    <img height="152.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilordash&langs_count=4&layout=compact&theme=dark&icon_color=007bff"/> 
-</div>
-</div>
