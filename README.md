@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ilya Orazov!  
+## Hey 👋, I'm Ilia Orazov!  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram&logoColor=1E90FF)](https://t.me/Ilordash) 
 
